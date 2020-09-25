@@ -1,0 +1,32 @@
+.main-content {
+  background: #424242;
+}
+
+.main-section {
+  margin: 20px 20px;
+}
+
+.card-panel {
+    padding: 2px 2px 2px 2px;
+    border-radius: 12px
+}
+
+.collapsible{
+  margin: .0rem 0 1rem 0;
+}
+
+.list-container {
+  border-radius: 20px;
+}
+
+.card-radius {
+  border-radius: 20px;
+}
+
+.category-title {
+  padding: 20px;
+}
+
+.modal-text {
+  background-color: black;
+}
